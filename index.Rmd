@@ -44,7 +44,7 @@ Enter temperature and select a conversion type. Just it and get your answer.
 * The last tab contains interesting links regarding the temperature measurements and scales. For example, this graph of relationships between various temperature scale.
 
 <div style='text-align: center;'>
-    <img width=560px src='assets/img/Snap2.jpg' />
+    <img width=590px src='assets/img/Snap2.jpg' />
 </div> 
 
 ---
@@ -58,5 +58,5 @@ Was an Irish mathematical physicist and engineer who was born in Belfast in 1824
 Anders Celsius was born in Uppsala, Sweden on 27 November 1701. His family originated from Ovanaker in the province of Halsingland. Their family estate was at Doma, also known as Hojen or Hogen (locally as Hogen 2). The name Celsius is a latinization of the estate's name (Latin celsus "mound").
 
 #### Fahrenheit - Daniel Gabriel Fahrenheit
-was born in 1686 in Danzig (Gdansk), in the Polish-Lithuanian Commonwealth, but lived most of his life in the Dutch Republic. The Fahrenheits were a German Hanse merchant family who had lived in several Hanseatic cities. Fahrenheit's great-grandfather had lived in Rostock, and research suggests that the Fahrenheit family originated in Hildesheim. Daniel's grandfather moved from Kneiphof in Königsberg to Danzig and settled there as a merchant in 1650. 
+was born in 1686 in Danzig (Gdansk), in the Polish-Lithuanian Commonwealth, but lived most of his life in the Dutch Republic. The Fahrenheits were a German Hanse merchant family who had lived in several Hanseatic cities. Fahrenheit's great-grandfather had lived in Rostock, and research suggests that the Fahrenheit family originated in Hildesheim. Daniel's grandfather moved from Kneiphof in Konigsberg to Danzig and settled there as a merchant in 1650. 
 
