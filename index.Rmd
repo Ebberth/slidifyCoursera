@@ -29,10 +29,16 @@ This application converts between this three most common temperature scales: Cel
 ## Shiny App: Temperature Conversion
 
 Enter temperature and select a conversion type. Just it and get your answer.
-
 <div style='text-align: center;'>
     <img src='assets/img/Snap1.jpg' />
 </div> 
+One of the formulas is shown below: What is the value to 20 degrees kelvin in the celsius scale?
+```{r}
+Celsius <- temp - 273.15
+Celsius
+```
+
+
 
 [Online Conversion - Temperature Conversion](https://help.shinyapps.io/DataProduct/)
 
