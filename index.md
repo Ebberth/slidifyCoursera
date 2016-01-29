@@ -42,10 +42,9 @@ Enter temperature and select a conversion type. Just it and get your answer.
 
 * Beside the results tab, you'll find the documentation of the program instructions.
 * The last tab contains interesting links regarding the temperature measurements and scales. For example, this graph of relationships between various temperature scale.
-You can get informed by temperature and 
 
 <div style='text-align: center;'>
-    <img width=600px src='assets/img/Snap2.jpg' />
+    <img width=500px src='assets/img/Snap2.jpg' />
 </div> 
 
 ---
