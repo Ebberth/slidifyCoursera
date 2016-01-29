@@ -35,24 +35,12 @@ Enter temperature and select a conversion type. Just it and get your answer.
 One of the formulas is shown below: What is the value to 20 degrees kelvin in the celsius scale?
 
 ```r
-Celsius <- temp - 273.15
+temp <- 20; Celsius <- temp - 273.15; Celsius
 ```
 
 ```
-## Error in eval(expr, envir, enclos): object 'temp' not found
+## [1] -253.15
 ```
-
-```r
-Celsius
-```
-
-```
-## Error in eval(expr, envir, enclos): object 'Celsius' not found
-```
-
-
-
-[Online Conversion - Temperature Conversion](https://help.shinyapps.io/DataProduct/)
 
 ---
 
