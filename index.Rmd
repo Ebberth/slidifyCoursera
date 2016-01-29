@@ -49,7 +49,7 @@ Enter temperature and select a conversion type. Just it and get your answer.
 
 ---
 
-### Short Biography
+## Short Biography
 
 #### Kelvin - William Thomson, 1st Baron Kelvin
 Was an Irish mathematical physicist and engineer who was born in Belfast in 1824. At the University of Glasgow he did important work in the mathematical analysis of electricity and formulation of the first and second laws of thermodynamics, and did much to unify the emerging discipline of physics in its modern form.
