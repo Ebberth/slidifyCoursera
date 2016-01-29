@@ -31,7 +31,7 @@ This application converts between this three most common temperature scales: Cel
 Enter temperature and select a conversion type. Just it and get your answer.
 
 <div style='text-align: center;'>
-    <img width=100px src='assets/img/Snap1.jpg' />
+    <img src='assets/img/Snap1.jpg' />
 </div> 
 
 [Online Conversion - Temperature Conversion](https://help.shinyapps.io/DataProduct/)
@@ -46,7 +46,7 @@ Enter temperature and select a conversion type. Just it and get your answer.
 You can get informed by temperature and 
 
 <div style='text-align: center;'>
-    <img src='assets/img/Snap2.jpg' />
+    <img width=1000px src='assets/img/Snap2.jpg' />
 </div> 
 
 ---
